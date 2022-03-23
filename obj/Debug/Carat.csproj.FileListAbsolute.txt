@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.MainMenu.resources
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.ListOfProducts.resources
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.WareHouse.resources
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.ShowCase.resources
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.Properties.Resources.resources
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Carat\bin\Debug\Carat.exe.config
+C:\Users\User\Desktop\Carat\bin\Debug\Carat.exe
+C:\Users\User\Desktop\Carat\bin\Debug\Carat.pdb
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.exe
+C:\Users\User\Desktop\Carat\obj\Debug\Carat.pdb
